@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'SpaceXFont';
+    src: url('./fonts/SpaceX.ttf') format('truetype');
+  }
+  
+  .svg-text {
+    font-family: 'SpaceXFont';
+    fill: white;
+    font-size: 60px;
+    letter-spacing: 20px; /* Separa las letras en 5px */
+  }
+  
